@@ -43,7 +43,7 @@ Add the package to your `composer.json` file:
 ```json
 {
     "require": {
-        "abhishekdas/shutdown-scheduler": "^1.0.0"
+        "abhishekdas/shutdown-scheduler": "^1.0"
     }
 }
 ```
