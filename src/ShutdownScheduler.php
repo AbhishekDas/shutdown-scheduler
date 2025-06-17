@@ -10,6 +10,7 @@
  * @package ShutdownScheduler
  * @author  Abhishek Das <abhishek@virtueplanet.com>
  * @license GPL-3.0
+ * @version 1.0.0
  */
 
 namespace AbhishekDas\ShutdownScheduler;
