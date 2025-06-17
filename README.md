@@ -6,23 +6,17 @@ A lightweight PHP library for managing shutdown events in your applications. Shu
 
 ## 📋 Table of Contents
 
-- [Features](#features)
-- [Installation](#installation)
-- [Basic Usage](#basic-usage)
-- [Advanced Examples](#advanced-examples)
-- [Cron Job Implementation](#cron-job-implementation)
-- [API Reference](#api-reference)
-- [Development](#development)
-- [Running Tests](#running-tests)
-- [Coding Standards](#coding-standards)
-- [Contributing](#contributing)
-- [License](#license)
-- [Basic Usage](#basic-usage)
-- [Advanced Examples](#advanced-examples)
-- [Cron Job Implementation](#cron-job-implementation)
-- [API Reference](#api-reference)
-- [Contributing](#contributing)
-- [License](#license)
+- [Features](#-features)
+- [Installation](#-installation)
+- [Basic Usage](#-basic-usage)
+- [Advanced Examples](#-advanced-examples)
+  - [Cron Job Implementation](#cron-job-implementation)
+- [API Reference](#-api-reference)
+- [Development](#-development)
+  - [Running Tests](#running-tests)
+  - [Coding Standards](#coding-standards)
+- [Contributing](#-contributing)
+- [License](#-license)
 
 ## ✨ Features
 
