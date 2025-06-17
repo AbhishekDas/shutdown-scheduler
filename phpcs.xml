@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<ruleset name="ShutdownScheduler">
+    <description>Coding standard for ShutdownScheduler package</description>
+
+    <!-- Include PSR-12 standard -->
+    <rule ref="PSR12"/>
+
+    <!-- Paths to check -->
+    <file>ShutdownScheduler.php</file>
+    <file>tests</file>
+    
+    <!-- Exclude some directories -->
+    <exclude-pattern>vendor/*</exclude-pattern>
+    <exclude-pattern>example/*</exclude-pattern>
+    
+    <!-- Parameters -->
+    <arg name="colors"/>
+    <arg value="p"/>
+</ruleset>
